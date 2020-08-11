@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: "Georgia";
+    color: navy;
+}
+
+h1 {
+    font-family: "Geneva";
+    color: paleturquoise;
+}
+
+.upload {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0; 
+    z-index: 1;
+}
