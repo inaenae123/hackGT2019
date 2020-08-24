@@ -14,3 +14,6 @@ Throughout the project, all of us learned new things. Primarily, our frontend de
 
 ## What's next for Picture PEAR-fect
 Additional capabilities our team would like to implement would be a button to save the newly "Pear-ifyed" image to the user's local computer. Next and definitely more taxing would be a functionality to photoshop the pears in a more real sense. We could use photo filters, blurring, and cloning to make the pear blend into the background of the picture seamlessly. However, we are extremely proud of our accomplishment with Picture PEAR-fect!
+
+## Built with..
+HTML, CSS, JQuery, Google-Cloud, APIs
