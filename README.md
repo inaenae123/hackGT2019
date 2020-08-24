@@ -1,4 +1,4 @@
-# hackGT2019
+# HackGT 2019 Project: Picture Pearfect
 
 ## Inspiration
 Our inspiration mainly came from reminiscing on our favorite childhood television shows and reflecting on how editors, software engineers, and other behind-the-scenes people involved in technology impact the final product of the show. Specifically, we were interested in pursuing a feature in the show, iCarly, produced by Nickelodeon. In this show, the characters use "Pearphones" instead of risking the Copyrighted Apple iPhones. Although these "pearphones" were designed, modeled, and used in real life, we hypothesized how video editors could've simply replaced the apples on the devices with pears.
